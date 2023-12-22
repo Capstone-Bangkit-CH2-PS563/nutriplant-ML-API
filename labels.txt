@@ -1,0 +1,26 @@
+beetroot
+bell pepper
+cabbage
+capsicum
+carrot
+cauliflower
+chilli pepper
+corn
+cucumber
+eggplant
+garlic
+ginger
+jalepeno
+lettuce
+onion
+paprika
+peas
+pomegranate
+potato
+raddish
+soy beans
+spinach
+sweetcorn
+sweetpotato
+tomato
+turnip
